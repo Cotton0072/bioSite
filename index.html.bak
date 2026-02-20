@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bioSite – Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Annabelle Cotton
+		Future veterinarian beginning college this fall</h1>
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="about.html">About</a> |
+            <a href="hobbies.html">Hobbies</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Introduction</h2>
+        <div class="section">
+            <p>This site highlights the life, background, and interests of Annabelle Cotton.</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Will Cotton – Bellevue University bioSite Project</p>
+    </footer>
+
+</body>
+</html>
