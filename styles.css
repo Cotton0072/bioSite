@@ -1,27 +1,36 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
+header {
+    background-color: #333;
+    color: white;
+    padding: 25px 0;
+    text-align: center;
+    margin-bottom: 25px;
 }
 
-h1 {
-    color: #333;
+header h1 {
+    margin: 0;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
 }
 
-h2 {
-    color: #555;
+header h2 {
+    margin: 5px 0 0 0;
+    font-weight: normal;
+    font-size: 1.2rem;
+    color: #e0e0e0;
 }
 
-.section {
-    margin-top: 20px;
-    padding: 10px;
-    border-left: 4px solid #888;
+/* Navigation inside banner */
+nav {
+    margin-top: 12px;
 }
 
-a {
-    color: #0066cc;
+nav a {
+    color: #ffdd88;
     text-decoration: none;
+    margin: 0 12px;
+    font-weight: bold;
 }
 
-a:hover {
+nav a:hover {
     text-decoration: underline;
 }
