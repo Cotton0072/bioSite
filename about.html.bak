@@ -8,29 +8,70 @@
 
 <body>
 
-    <header>
-        <h1>About</h1>
-        <nav>
-            <a href="index.html">Home</a> |
-            <a href="about.html">About</a> |
-            <a href="hobbies.html">Hobbies</a>
-        </nav>
-    </header>
+<header>
+    <h1>About</h1>
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About</a> |
+        <a href="hobbies.html">Hobbies</a>
+    </nav>
+</header>
 
-    <main>
-        <h2>Biography</h2>
-        <div class="section">
-            <p>Annabelle Cotton is a dedicated and compassionate young woman preparing to graduate high school and begin an exciting new chapter in her life. Throughout her high school years, she balanced academics with her love for softball, a sport that taught her teamwork, discipline, and perseverance. One of her proudest accomplishments has been gaining hands-on experience working part-time with a veterinarian, an opportunity that strengthened her passion for animal care and confirmed her desire to pursue a career in veterinary medicine.
-Annabelle’s love for dogs and her lifelong connection with animals inspired her to follow the path of becoming a veterinarian. She is eager to begin college this fall, where she looks forward to learning everything she can about animal science, behavior, and medical care. Rather than focusing on one specialty, she is excited by the entire field and hopes to eventually work with small animals in a professional veterinary setting.
-As she prepares for college, Annabelle is motivated by the independence and new experiences that lie ahead. She knows challenges will come, but she feels confident knowing she has a strong support system in her family. Her job at the grocery store has played a meaningful role in her growth, helping her develop responsibility, communication skills, and the ability to work with people in a caring and sensitive way.
-Driven by a passion she has carried since freshman year, Annabelle is committed to helping animals and building a future where she can make a positive impact every day.
-</p>
-        </div>
-    </main>
+<main>
 
-    <footer>
-        <p>&copy; 2026 Will Cotton – Bellevue University bioSite Project</p>
-    </footer>
+    <h2>Bio</h2>
+    <div class="section">
+        <p>Annabelle Cotton is a dedicated and compassionate young woman preparing to graduate high school and begin an exciting new chapter in her life. Throughout her high school years, she balanced academics with her love for softball, a sport that taught her teamwork, discipline, and perseverance. One of her proudest accomplishments has been gaining hands-on experience working part-time with a veterinarian, an opportunity that strengthened her passion for animal care and confirmed her desire to pursue a career in veterinary medicine.</p>
+
+        <p>Annabelle’s love for dogs and her lifelong connection with animals inspired her to follow the path of becoming a veterinarian. She is eager to begin college this fall, where she looks forward to learning everything she can about animal science, behavior, and medical care. Rather than focusing on one specialty, she is excited by the entire field and hopes to eventually work with small animals in a professional veterinary setting.</p>
+
+        <p>As she prepares for college, Annabelle is motivated by the independence and new experiences that lie ahead. She knows challenges will come, but she feels confident knowing she has a strong support system in her family. Her job at the grocery store has played a meaningful role in her growth, helping her develop responsibility, communication skills, and the ability to work with people in a caring and sensitive way.</p>
+
+        <p>Driven by a passion she has carried since freshman year, Annabelle is committed to helping animals and building a future where she can make a positive impact every day.</p>
+    </div>
+
+    <h3>Senior Interview Responses</h3>
+    <h2>Interview Questions & Answers</h2>
+
+    <div class="section">
+
+        <p><strong>What has been your favorite part of high school, and what are you most proud of accomplishing before graduation?</strong></p>
+        <p class="answer1">Softball and working with a veterinarian part time</p>
+
+        <p><strong>How do you feel now that graduation is so close, and what does this milestone mean to you personally?</strong></p>
+        <p class="answer2">Starting another chapter in my life</p>
+
+        <p><strong>What inspired you to want to become a veterinarian?</strong></p>
+        <p class="answer3">My love for dogs and just being around them my whole life</p>
+
+        <p><strong>What part of veterinary work are you most excited to learn about in college?</strong></p>
+        <p class="answer4">I want to learn as much as I can — everything is interesting to me.</p>
+
+        <p><strong>Where do you see yourself in the future as a vet?</strong></p>
+        <p class="answer5">Working with small animals</p>
+
+        <p><strong>What are you looking forward to most about starting college?</strong></p>
+        <p class="answer6">Something that’s not high school and being on my own</p>
+
+        <p><strong>What challenges do you think you’ll face in college?</strong></p>
+        <p class="answer7">I have family I can talk to, and they will help me through any challenge</p>
+
+        <p><strong>How has working at the grocery store helped you grow?</strong></p>
+        <p class="answer8">I’ve developed so much since starting at 16 — responsibility, communication, and patience</p>
+
+        <p><strong>What skills from your job will help you in your future veterinary career?</strong></p>
+        <p class="answer9">Dealing with people, being sensitive, and caring</p>
+
+        <p><strong>What motivates you to keep working toward your goals?</strong></p>
+        <p class="answer10">I’ve wanted this since freshman year — helping animals is my passion</p>
+
+    </div>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Will Cotton – Bellevue University bioSite Project</p>
+</footer>
 
 </body>
 </html>
